@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chhabra Air Conditioning</string>
+    <string name="business_name">Chhabra Air Conditioning</string>
+    <string name="image_description">Air Conditioner Image</string>
+    <string name="description">We house a variety of products\nincluding ACs, Heater, Geyser,\nand so on. We also provide\ntop quality service at affordable\nrates from our experienced\ntechnicians.</string>
+    <string name="contact_us">Contact us at:</string>
+    <string name="owner_name">Mukesh Chhabra</string>
+    <string name="mobile_number">9811668428</string>
+    <string name="email_id">anairconditioning@gmail.com</string>
+    <string name="address">E-2/11, Malviya Nagar, New Delhi, India</string>
+    <string name="visit_us">Come, Visit Us Soon!</string>
+    <string name="owner">Owner:</string>
+    <string name="visit_us_at">Visit us at:</string>
+    <string name="open_from">Open from: 10am</string>
+    <string name="open_till">Till: 9pm</string>
+
+</resources>
